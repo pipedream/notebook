@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Open source, interactive data science and scientific computing across over 40 programming languages.
+Exec=jupyter notebook
+GenericName[en_US]=Jupyter Notebook
+GenericName=Jupyter Notebook
+# requires icon by that name in /usr/share/pixmaps
+Icon=/usr/share/icons/jupyter.png
+Name[en_US]=Jupyter notebook
+Name=Jupyter Notebook
+Categories=Development;Utility;
+StartupNotify=false
+Terminal=true
+Type=Application
